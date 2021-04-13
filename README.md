@@ -1,5 +1,7 @@
 # Inflames-Simulado-0
-![img0](Questão 1.png)
+
+![img](banner.png)
+
 ## Questões:
 - [x] Dentro da esfera
 - [x] Centro de massa
